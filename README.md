@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg2anVkdDZndWRqYW1peXUxcThia3h6czVqM3Y4a2c1bzNtOTZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif"  />
-</div>
+
 
 ###
 
-<h2 align="center">Hi 👋, I'm Aji Sakti Saputra</h3>
+###
+![ajisakti554](image-1.png)
+
 
 ###
 
@@ -27,13 +27,9 @@ Here are some ideas to get you started:
 
 ###
 
-![Ajisakti](github-header-image.png)
-
-
-###
-
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aji-sakti-saputra-094259281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3B0HvKm5UASDigJlePOIiyvA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajisakti554@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajisakts)
+ 
 
 
 
@@ -44,9 +40,9 @@ Here are some ideas to get you started:
 
 | 📁 Proyek | 📚 Deskripsi Singkat | 🔗 Link |
 |----------|-----------------------|--------|
-| 🎬 **Bioskop dan Rapor** *(Semester 2)* | Simulasi sistem pemesanan tiket bioskop dan pengolahan rapor menggunakan C++ | [Lihat proyek](hhttps://github.com/ajisakti554/Algoritma_pemograman_menggunakanc-_Semester-2/tree/main/project%20semester%201%20c%2B%2B) |
-| 📊 **Analisis Gaji Data Scientist 2020–2024** *(Semester 3)* | Analisis tren gaji menggunakan Python dan visualisasi data | [Lihat proyek](https://github.com/ajisakti554/Pemrograman-lanjut-Python-Semester3/tree/main/Tugas%20Besar%20Pemograman%20lanjut) |
 | 🦞 **Analisis Dataset Lobster (Big Data)** *(Semester 4)* | Analisis dan pengolahan dataset besar menggunakan Python untuk insight | [Lihat proyek](https://github.com/ajisakti554/Big-Data-Semester4) |
+| 📊 **Analisis Gaji Data Scientist 2020–2024** *(Semester 3)* | Analisis tren gaji menggunakan Python dan visualisasi data | [Lihat proyek](https://github.com/ajisakti554/Pemograman-lanjut-Python-Semester3/tree/main/Tugas%20Besar%20Pemograman%20lanjut) |
+| 🎬 **Bioskop dan Rapor** *(Semester 2)* | Simulasi sistem pemesanan tiket bioskop dan pengolahan rapor menggunakan C++ | [Lihat proyek](https://github.com/ajisakti554/Algoritma_pemograman_menggunakanc-_Semester-2/tree/main/project%20semester%201%20c%2B%2B) |
 
 
 
@@ -54,6 +50,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ajisakti554&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=ajisakti554&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajisakti554&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -63,10 +60,10 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ajisakti554&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 [def]: img/github-header-image.jpg
+[def2]: github-header-image.png
