@@ -46,19 +46,6 @@
 [def]: img/github-header-image.jpg
 [def2]: github-header-image.png
 
-<h5 align="center">Play game with me</h5>
-
-###
-
-
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
-###
-###
 
 
 [![](https://visitcount.itsvg.in/api?id=ajisakti554&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -67,3 +54,8 @@
 
 [def]: img/github-header-image.jpg
 [def2]: github-header-image.png
+
+<h4 align="center">
+
+![ajisakti554](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJma2I3NWl2aWZ1cWRkbHZhbjNqdGJhOGVpendvbzYyeXd3cmZnbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NTtoU4hkyq8W48re2f/giphy.gif)
+</h4 align>
