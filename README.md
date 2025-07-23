@@ -22,9 +22,11 @@
 
 | 📁 Proyek | 📚 Deskripsi Singkat | 🔗 Link |
 |----------|-----------------------|--------|
+| 📈 **Dashboard Spotify Global Streaming**  *(Semester 4)*| Dashboard interaktif Tableau untuk memvisualisasikan data lagu-lagu populer global di spotify. | [Lihat Proyek](https://github.com/ajisakti554/Visualisasi-Data-Tableu-Semester4/tree/main) |
 | 🦞 **Analisis Dataset Lobster (Big Data)** *(Semester 4)* | Analisis dan pengolahan dataset besar menggunakan Python untuk insight | [Lihat proyek](https://github.com/ajisakti554/Big-Data-Semester4) |
 | 📊 **Analisis Gaji Data Scientist 2020–2024** *(Semester 3)* | Analisis tren gaji menggunakan Python dan visualisasi data | [Lihat proyek](https://github.com/ajisakti554/Pemograman-lanjut-Python-Semester3/tree/main/Tugas%20Besar%20Pemograman%20lanjut) |
 | 🎬 **Bioskop dan Rapor** *(Semester 2)* | Simulasi sistem pemesanan tiket bioskop dan pengolahan rapor menggunakan C++ | [Lihat proyek](https://github.com/ajisakti554/Algoritma_pemograman_menggunakanc-_Semester-2/tree/main/project%20semester%201%20c%2B%2B) |
+
 
 
 
