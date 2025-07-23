@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDg2anVkdDZndWRqYW1peXUxcThia3h6czVqM3Y4a2c1bzNtOTZ6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif"  />
-</div>
+
 
 ###
 
-<h2 align="center">Hi 👋, I'm Aji Sakti Saputra</h3>
+###
+![alt text](image-1.png)
+
 
 ###
 
@@ -27,13 +27,9 @@ Here are some ideas to get you started:
 
 ###
 
-![Ajisakti](github-header-image.png)
-
-
-###
-
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aji-sakti-saputra-094259281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3B0HvKm5UASDigJlePOIiyvA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajisakti554@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajisakts)
+ 
 
 
 
@@ -54,6 +50,7 @@ Here are some ideas to get you started:
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ajisakti554&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=ajisakti554&theme=maroongold&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajisakti554&theme=maroongold&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -63,10 +60,10 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ajisakti554&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
 [def]: img/github-header-image.jpg
+[def2]: github-header-image.png
