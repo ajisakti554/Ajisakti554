@@ -44,6 +44,10 @@
 [def]: img/github-header-image.jpg
 [def2]: github-header-image.png
 
+<h5 align="center">Play game with me</h5>
+
+###
+
 <br clear="both">
 
 <picture>
@@ -52,6 +56,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
 </picture>
 
+###
 ###
 
 
