@@ -20,13 +20,17 @@
 
 # ✨ My Featured Projects:
 
+## ✨ My Featured Projects:
+
 | Judul Proyek | Semester | Deskripsi | Link |
-|--------------|----------|-----------|------|
-| 🏫 Analisis Survei Fasilitas Kampus | 4 | Menganalisis pengaruh fasilitas kampus terhadap efektivitas belajar mengajar di Universitas Koperasi Indonesia menggunakan Python (pandas & matplotlib). | [Lihat Repo](https://github.com/ajisakti554/Analisis-Perancangan-dan-Survey-Semester-4-/blob/main/Project_analisis_survey_fasilitas_kampus.ipynb) |
-| 📈 Dashboard Spotify Global Streaming | 4 | Dashboard interaktif Tableau untuk memvisualisasikan data lagu-lagu populer global. | [Lihat Repo](https://github.com/ajisakti554/Visualisasi-Data-Tableu-Semester4/tree/main) |
-| 🦞 Analisis Dataset Lobster | 4 | Analisis Big Data menggunakan Hadoop & Spark pada data perikanan laut. | [Lihat Repo](https://github.com/ajisakti554/Big-Data-Semester4) |
-| 📊 Analisis Gaji Data Scientist 2020–2024 | 3 | Analisis tren profesi data scientist menggunakan Python (web scraping, cleaning, dan visualisasi). | [Lihat Repo](https://github.com/ajisakti554/Pemograman-lanjut-Python-Semester3/tree/main/Tugas%20Besar%20Pemograman%20lanjut) |
-| 🎞️ Bioskop dan Rapor | 2 | Latihan C++ mencakup percabangan, perulangan, struct, dan pointer. | [Lihat Repo](https://github.com/ajisakti554/Algoritma_pemograman_menggunakanc-_Semester-2/tree/main/project%20semester%201%20c%2B%2B) |
+| :--- | :--- | :--- | :---: |
+| 🚗 **Analisis Komparatif Kinerja dan Efisiensi Energi Kendaraan Listrik (EV)** | 5 | Menganalisis kinerja dan efisiensi energi EV (menggunakan Python) untuk menentukan posisi kompetitif berbagai merek di pasar global dan memberikan rekomendasi strategis. | [Lihat Repo](URL_REPO_EV) |
+| 🧑‍💼 **Analisis Penyebab Utama Karyawan Berhenti Bekerja (Turnover)** | 5 | Menganalisis dan menemukan penyebab utama *turnover* karyawan (menggunakan Python) guna memberikan interpretasi dan rekomendasi untuk retensi karyawan terbaik. | [Lihat Repo](URL_REPO_TURNOVER) |
+| 🏰 Analisis Survei Fasilitas Kampus | 4 | Menganalisis pengaruh fasilitas kampus terhadap efektivitas belajar mengajar di Universitas Koperasi Indonesia menggunakan Python (pandas & matplotlib). | [Lihat Repo](URL_REPO_1) |
+| 📈 Dashboard Spotify Global Streaming | 4 | Dashboard interaktif Tableau untuk memvisualisasikan data lagu-lagu populer global. | [Lihat Repo](URL_REPO_2) |
+| 🦀 Analisis Dataset Lobster | 4 | Analisis Big Data menggunakan Hadoop & Spark pada data perikanan laut. | [Lihat Repo](URL_REPO_3) |
+| 💰 Analisis Gaji Data Scientist 2020-2024 | 3 | Analisis tren profesi data scientist menggunakan Python (web scraping, cleaning, dan visualisasi). | [Lihat Repo](URL_REPO_4) |
+| 💻 Bioskop dan Rapor | 2 | Latihan C++ mencakup percabangan, perulangan, struct, dan pointer. | [Lihat Repo](URL_REPO_5) |
 
 
 
