@@ -16,21 +16,37 @@
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/tableau-4479A1.svg?style=for-the-badge&logo=tableu&logoColor=white) ![Looker Studio](https://img.shields.io/badge/looker-4479A1?style=for-the-badge&logo=looker&logoColor=)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/tableau-4479A1.svg?style=for-the-badge&logo=tableu&logoColor=white) ![Looker Studio](https://img.shields.io/badge/looker-4479A1?style=for-the-badge&logo=looker&logoColor=)
 
-# ✨ My Featured Projects:
+# ✨ My Featured Projects
+
+## IN College :
 
 ## ✨ My Featured Projects:
 
 | Judul Proyek | Semester | Deskripsi | Link |
 | :--- | :--- | :--- | :---: |
-| 🚗 **Analisis Komparatif Kinerja dan Efisiensi Energi Kendaraan Listrik (EV)** | 5 | Menganalisis kinerja dan efisiensi energi EV (menggunakan Python) untuk menentukan posisi kompetitif berbagai merek di pasar global dan memberikan rekomendasi strategis. | [Lihat Repo](URL_REPO_EV) |
-| 🧑‍💼 **Analisis Penyebab Utama Karyawan Berhenti Bekerja (Turnover)** | 5 | Menganalisis dan menemukan penyebab utama *turnover* karyawan (menggunakan Python) guna memberikan interpretasi dan rekomendasi untuk retensi karyawan terbaik. | [Lihat Repo](URL_REPO_TURNOVER) |
-| 🏰 Analisis Survei Fasilitas Kampus | 4 | Menganalisis pengaruh fasilitas kampus terhadap efektivitas belajar mengajar di Universitas Koperasi Indonesia menggunakan Python (pandas & matplotlib). | [Lihat Repo](URL_REPO_1) |
-| 📈 Dashboard Spotify Global Streaming | 4 | Dashboard interaktif Tableau untuk memvisualisasikan data lagu-lagu populer global. | [Lihat Repo](URL_REPO_2) |
-| 🦀 Analisis Dataset Lobster | 4 | Analisis Big Data menggunakan Hadoop & Spark pada data perikanan laut. | [Lihat Repo](URL_REPO_3) |
-| 💰 Analisis Gaji Data Scientist 2020-2024 | 3 | Analisis tren profesi data scientist menggunakan Python (web scraping, cleaning, dan visualisasi). | [Lihat Repo](URL_REPO_4) |
-| 💻 Bioskop dan Rapor | 2 | Latihan C++ mencakup percabangan, perulangan, struct, dan pointer. | [Lihat Repo](URL_REPO_5) |
+| 🚗 **Analisis Komparatif Kinerja dan Efisiensi Energi Kendaraan Listrik (EV)** | **5** | Menganalisis kinerja dan efisiensi energi EV (menggunakan Python) untuk menentukan posisi kompetitif berbagai merek di pasar global dan memberikan rekomendasi strategis(Menggunakan Python). | [Lihat Repo](https://github.com/ajisakti554/Portofolio-in-college-/blob/main/Analisis%20Komparatif%20Kinerja%20dan%20Efisiensi%20Energi%20Kendaraan%20Listrik%20(EV)%20dalam%20Menentukan%20Posisi%20Kompetitif%20Merek%20di%20Pasar%20Global.ipynb) |
+| 🧑‍💼 **Analisis Penyebab Utama Karyawan Berhenti Bekerja (Turnover)** | **5** | Menganalisis dan menemukan penyebab utama *turnover* karyawan (menggunakan Python) guna memberikan interpretasi dan rekomendasi untuk retensi karyawan terbaik(Menggunakan Python). | [Lihat Repo](https://github.com/ajisakti554/Portofolio-in-college-/blob/main/Menganalisis%20dan%20Menemukan%20Penyebab%20Utama%20Karyawan%20Berhenti%20Bekerja%20(Turnover)%20Guna%20Meningkatkan%20Kemampuan%20Perusahaan%20Mempertahankan%20Karyawan%20Terbaik.ipynb) |
+| 📈 Dashboard Spotify Global Streaming | 4 | Dashboard interaktif Tableau untuk memvisualisasikan data lagu-lagu populer global. | [Lihat Repo](https://github.com/ajisakti554/Portofolio-in-college-/blob/main/Project%20visualisasi%20Data_spotify%20global%20streaming%20data%20Tableu%20(3).twbx) |
+| 🦀 Analisis Dataset Lobster | 4 | Analisis Data pada data perikanan laut (lobster) untuk mengetahui tren penangkapan lobster berdasarkan banyak faktor/variabel terkait. | [Lihat Repo](https://github.com/ajisakti554/Portofolio-in-college-/blob/main/LAPORAN%20analisis_Big_Data_untuk_mengidentifikasi_pola_dan_hubungan_kunci_antara_karakteristik_lobster%2C_proses_penangkapan_dan_pengelolaan%2C_serta_kondisi_pasar_dengan_kualitas_dan_harga_jualnya_.pdf) |
+| 💰 Analisis Gaji Data Scientist 2020-2024 | 3 | Analisis tren profesi data scientist menggunakan Python (web scraping, cleaning, dan visualisasi). | [Lihat Repo](https://github.com/ajisakti554/Portofolio-in-college-/blob/main/Tugas_Besar_Data_Analisis_Gaji%20Data%20Scientist%20berdasarkan%20variabel%20tertentu(Kelompok1)%20(1).ipynb) |
+| 🌟 **Query Gaji Data Scientist Berdasarkan Experience Level** (Menggunakan SQL) | **3** | Melakukan *query* data gaji untuk mengetahui dan menganalisis konsumen kompensasi Data Scientist berdasarkan tingkat pengalaman (*entry-level*, *senior*, *executive*, dll). | [Lihat Repo](https://github.com/ajisakti554/Portofolio-in-college-/blob/main/querysql_ds_salaries.pdf) |
+
+
+
+## IN BOOTCAMP AND E-LEARNING:
+
+## ✨ My Featured Projects:
+
+| Judul Proyek | Deskripsi | Link |
+| :--- | :--- | :---: |
+| 🔄 **Project User Retention Analysis** (Menggunakan Python) | Mengetahui loyalitas pelanggan dalam membeli suatu produk dalam rentang waktu tertentu, serta mengidentifikasi pola retensi menggunakan Python. | [Lihat Repo](https://github.com/ajisakti554/Bootcamp-Elearning/blob/main/ProjectUserRetentionAnalyis.ipynb) |
+| 💰 **Analisa Pendapatan Amazon Berdasarkan Kategori**   (Menggunakan Python)| Melakukan analisa mendalam (menggunakan Python) untuk memecah dan mengukur pendapatan Amazon berdasarkan kategori produk. | [Lihat Repo](https://github.com/ajisakti554/Bootcamp-Elearning/blob/main/Amazon%20Sales.ipynb) |
+| 💎 **Data Cleaning dan Query Konsumen Pembelian Tertinggi ** (Menggunakan SQL)| Melakukan Data Cleaning dan men-query konsumen dengan pembelian tertinggi (tajir dan super tajir) untuk identifikasi target pasar premium. | [Lihat Repo](https://github.com/ajisakti554/Bootcamp-Elearning/blob/main/Data%20Cleaning%20dan%20Query%20Konsumen%20Pembelian%20Tertinggi(sales_amazon).pdf) |
+| 📱 **Analisis Trend Media Sosial (Tiktok, Instagram, Twitter, Youtube)**  (Menggunakan Python)| Menganalisis tren media sosial viral di berbagai platform (menggunakan Python) untuk kebutuhan pemasaran dan pemahaman tren pasar. | [Lihat Repo](https://github.com/ajisakti554/Bootcamp-Elearning/blob/main/Project_Viral%20Social%20Media%20Trends%20%26%20Engagement%20A.ipynb) |
+| 📊 **Transaction Dashboard** (Menggunakan Google Looker Studio) | Pembuatan Dashboard Transaksi yang komprehensif dan interaktif menggunakan Looker Studio untuk visualisasi data penjualan. | [Lihat Repo](https://github.com/ajisakti554/Bootcamp-Elearning/blob/main/Transactiondashboard%20(1).pdf) |
+
 
 
 
