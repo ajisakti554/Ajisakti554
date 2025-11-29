@@ -20,9 +20,9 @@
 
 # ✨ My Featured Projects
 
-## IN College :
+## IN COLLEGE :
 
-## ✨ My Featured Projects:
+
 
 | Judul Proyek | Semester | Deskripsi | Link |
 | :--- | :--- | :--- | :---: |
@@ -36,8 +36,6 @@
 
 
 ## IN BOOTCAMP AND E-LEARNING:
-
-## ✨ My Featured Projects:
 
 | Judul Proyek | Deskripsi | Link |
 | :--- | :--- | :---: |
