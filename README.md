@@ -18,7 +18,14 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![Tableau](https://img.shields.io/badge/tableau-4479A1.svg?style=for-the-badge&logo=tableu&logoColor=white) ![Looker Studio](https://img.shields.io/badge/looker-4479A1?style=for-the-badge&logo=looker&logoColor=)
 
-# ✨ My Featured Projects
+
+## ✨ My Highlight Project
+|Nama Tools | Urutan | Deskripsi | Insight Kunci | Link |
+| :--- | :--- | :--- | :--- |:---:|
+|🐍 Python|1|"Mengolah 6.607 data mentah untuk mendeteksi siswa ""Zona Merah"" berdasarkan skor < 60 dan tren nilai menurun."| Berhasil mengisolasi 48 siswa spesifik yang membutuhkan intervensi segera.|[Lihat Repo](https://github.com/ajisakti554/highlight_project/blob/main/StudentPerformance.ipynb) |
+|🗄️ SQL|2|Melakukan agregasi data untuk melihat persentase risiko berdasarkan variabel ekonomi dan akses teknologi.|"Menemukan risiko tertinggi (2,15%) pada kelompok ekonomi menengah tanpa akses internet."|[Lihat Repo](https://github.com/ajisakti554/highlight_project/blob/main/Sql_studentperformance.pdf) |
+|📊 Tableau|3|Memvisualisasikan daftar 48 siswa berisiko ke dalam dashboard interaktif untuk pemetaan profil siswa.|Membuktikan adanya Digital Divide; ketiadaan internet memangkas tingkat kelulusan hingga ~8%.|[Lihat Repo](https://github.com/ajisakti554/highlight_project/blob/main/Visualisasi_Performance_Students.twbx) |
+|Excel|4|Menghitung Study Efficiency Ratio (SER) dan memetakan efisiensi belajar melalui Efficiency Matrix.|"Motivasi tinggi terbukti meningkatkan efisiensi belajar secara signifikan hingga skor 3,52."|[Lihat Repo](https://github.com/ajisakti554/highlight_project/blob/main/Study_Efficiency_Ratio.xlsx) |
 
 ## IN COLLEGE :
 
