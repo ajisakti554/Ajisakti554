@@ -22,7 +22,7 @@
 ## ✨ My Highlight Project
 
 #### Beyond the Report Card: A Data-Driven Analysis of Student Performance Determinants
-|Nama Tools | Urutan | Deskripsi | Insight Kunci | Link |
+| Tools Yang Digunakan | Urutan | Deskripsi | Insight Kunci | Link |
 | :--- | :--- | :--- | :--- |:---:|
 |🐍 Python|1|"Mengolah 6.607 data mentah untuk mendeteksi siswa ""Zona Merah"" berdasarkan skor < 60 dan tren nilai menurun."| Berhasil mengisolasi 48 siswa spesifik yang membutuhkan intervensi segera.|[Lihat Repo](https://github.com/ajisakti554/highlight_project/blob/main/StudentPerformance.ipynb) |
 |🗄️ SQL|2|Melakukan agregasi data untuk melihat persentase risiko berdasarkan variabel ekonomi dan akses teknologi.|"Menemukan risiko tertinggi (2,15%) pada kelompok ekonomi menengah tanpa akses internet."|[Lihat Repo](https://github.com/ajisakti554/highlight_project/blob/main/Sql_studentperformance.pdf) |
