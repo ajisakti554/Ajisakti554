@@ -1,17 +1,19 @@
 
 ###
-![ajisakti554](image-1.png)
+![ajisakti554](banner.png)
 
 
-###
 
-<h4 align="center">Saya seorang Data Analyst / Data Scientist dengan minat besar pada Big Data, Visualisasi, dan Machine Learning.</h4>
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['1','2','3','4','5','6','7','8'],datasets:[{data:[3,5,4,8,6,11,9,14],borderColor:'rgb(37,99,235)',borderWidth:2,fill:true,backgroundColor:'rgba(6,182,212,0.1)'}]},options:{legend:{display:false},scales:{xAxes:[{display:false}],yAxes:[{display:false}]},elements:{point:{radius:0}},layout:{padding:10}}}&w=500&h=80&bkg=transparent" alt="Abstract Data Visualization" />
 
-###
+<div align="center">
 
-## 🌐 Socials:
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aji-sakti-saputra-094259281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_verification_details%3B0HvKm5UASDigJlePOIiyvA%3D%3D) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ajisakti554@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ajisakts)
- 
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aji%20Sakti%20Saputra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aji-sakti-saputra-094259281/)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-@ajisakti554-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajisakti554)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-ajisakti554%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:ajisakti554@gmail.com)&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-@ajisakts-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ajisakts)
+
+</div>
+
 
 
 
