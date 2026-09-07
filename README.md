@@ -1,22 +1,33 @@
+<<div align="center">
+  ![ajisakti554](banner.png)
 
-###
-![ajisakti554](banner.png)
+  <br />
 
+  <h3><b>Data Science &bull; Data Analyst &bull; Data Visualization</b></h3>
+  <p><i>Turning data into insights, visualizations, and practical solutions.</i></p>
 
-<div align="center">
+  <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['1','2','3','4','5','6','7','8'],datasets:[{data:[3,5,4,8,6,11,9,14],borderColor:'rgb(37,99,235)',borderWidth:2,fill:true,backgroundColor:'rgba(6,182,212,0.1)'}]},options:{legend:{display:false},scales:{xAxes:[{display:false}],yAxes:[{display:false}]},elements:{point:{radius:0}},layout:{padding:10}}}&w=800&h=120&bkg=transparent" alt="Abstract Data Visualization" />
 
-<br/><br/>      
-### Data Science  · Data Analyst · Data Visualization
+  <br /><br />
 
-<p>
-  <i>Turning data into insights, visualizations, and practical solutions.</i>
-</p>
-<br/>
- <img src="https://quickchart.io/chart?c={type:'line',data:{labels:['1','2','3','4','5','6','7','8'],datasets:[{data:[3,5,4,8,6,11,9,14],borderColor:'rgb(37,99,235)',borderWidth:2,fill:true,backgroundColor:'rgba(6,182,212,0.1)'}]},options:{legend:{display:false},scales:{xAxes:[{display:false}],yAxes:[{display:false}]},elements:{point:{radius:0}},layout:{padding:10}}}&w=500&h=80&bkg=transparent" alt="Abstract Data Visualization" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aji%20Sakti%20Saputra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aji-sakti-saputra-094259281/)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-@ajisakti554-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ajisakti554)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-ajisakti554%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:ajisakti554@gmail.com)&nbsp;&nbsp;[![Instagram](https://img.shields.io/badge/Instagram-@ajisakts-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/ajisakts)
+  <a href="https://www.linkedin.com/in/aji-sakti-saputra-094259281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Aji%20Sakti%20Saputra-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ajisakti554">
+    <img src="https://img.shields.io/badge/GitHub-@ajisakti554-%23181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:ajisakti554@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ajisakti554@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/ajisakts">
+    <img src="https://img.shields.io/badge/Instagram-@ajisakts-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 
 </div>
+<br />
 
 ---
 
@@ -67,8 +78,8 @@ Independently guided students throughout the **Visualisasi Data** course from th
 | :--- | :--- | :---: |
 | 📜 **Teaching Assistant Certificate** | Official certificate confirming my role as a Teaching Assistant for the Visualisasi Data course. | [View] |
 | 🎥 **Learning Recap** | Learning content independently created and documented throughout the course, from the first meeting to the final session. | [Watch](https://www.youtube.com/watch?v=0cjku-iseso&list=PLKYh0zPTX5r4) |
-| 📚 **Teaching Materials** | Teaching materials independently developed based on the topics assigned by the lecturer and reviewed before delivery. | [View] |
-| 🖼️ **Learning Documentation** | Selected documentation of Tableau-based practical sessions and student learning activities. | [View] |
+| 📚 **Teaching Materials** | Teaching materials independently developed based on the topics assigned by the lecturer and reviewed before delivery. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./tree/main/Modul%20Praktikum%20Visualisasi%20Data) |
+| 🖼️ **Learning Documentation** | Selected documentation of Tableau-based practical sessions and student learning activities. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./blob/main/Modul%20Praktikum%20Visualisasi%20Data/Dokumentasi%20Asisten%20Dosen%20Visualisasi%20Data.jpeg) |
 ---
 
 # 🚀 Real-World Project
@@ -103,7 +114,7 @@ I developed a centralized web-based system that integrates **student data manage
 
 | Evidence | Description | Access |
 | :--- | :--- | :---: |
-| 🖥️ **System Screenshots** | Selected screenshots demonstrating the main system features using sanitized or demo data. | [View] |
+| 🖥️ **System Screenshots** | Selected screenshots demonstrating the main system features using sanitized or demo data. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./tree/main/Website) |
 | 📊 **Dashboard Preview** | Preview of the administrative dashboard and data visualization features. | [View] |
 | 📄 **Report Generation** | Demonstration of automated PDF and Excel report generation. | [View] |
 | 🏆 **Certificate Generation** | Demonstration of automated certificate generation using demo data. | [View] |
