@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<br/><br/>
+<br/><br/>      
 ### Data Science  · Data Analyst · Data Visualization
 
 <p>
@@ -57,21 +57,7 @@ Independently guided students throughout the **Visualisasi Data** course from th
 
 ### Workflow
 
-```text
-Lecturer Assigns Topic
-        ↓
-Study & Understand the Topic
-        ↓
-Develop Teaching Materials
-        ↓
-Tableau Practical Preparation
-        ↓
-Lecturer Review
-        ↓
-Present & Guide Students
-        ↓
-Learning Documentation
-```
+<img src= "ChatGPT Image Sep 7, 2026, 01_22_59 PM.png/">
 
 
 
@@ -80,7 +66,7 @@ Learning Documentation
 | Evidence | Description | Access |
 | :--- | :--- | :---: |
 | 📜 **Teaching Assistant Certificate** | Official certificate confirming my role as a Teaching Assistant for the Visualisasi Data course. | [View] |
-| 🎥 **Learning Recap** | Learning content independently created and documented throughout the course, from the first meeting to the final session. | [Watch] |
+| 🎥 **Learning Recap** | Learning content independently created and documented throughout the course, from the first meeting to the final session. | [Watch](https://www.youtube.com/watch?v=0cjku-iseso&list=PLKYh0zPTX5r4) |
 | 📚 **Teaching Materials** | Teaching materials independently developed based on the topics assigned by the lecturer and reviewed before delivery. | [View] |
 | 🖼️ **Learning Documentation** | Selected documentation of Tableau-based practical sessions and student learning activities. | [View] |
 ---
@@ -113,15 +99,15 @@ I developed a centralized web-based system that integrates **student data manage
 
 ### Key Features
 
-| Module | Function |
-| :--- | :--- |
-| 📊 **Dashboard** | Provides an overview of student and administrative data |
-| 🔎 **Data Management & Search** | Enables faster searching and management of student records |
-| 📝 **Student Data Input** | Provides a structured interface for recording student information |
-| 📄 **Automated Reports** | Generates administrative reports in **PDF and Excel** formats |
-| 🏆 **Automated Certificates** | Generates certificates based on stored student data |
-| 📚 **User Guide** | Provides text-based instructions for using the system |
-| 🎥 **Video Tutorial** | Provides step-by-step guidance through video tutorials |
+### Evidence & Documentation
+
+| Evidence | Description | Access |
+| :--- | :--- | :---: |
+| 🖥️ **System Screenshots** | Selected screenshots demonstrating the main system features using sanitized or demo data. | [View] |
+| 📊 **Dashboard Preview** | Preview of the administrative dashboard and data visualization features. | [View] |
+| 📄 **Report Generation** | Demonstration of automated PDF and Excel report generation. | [View] |
+| 🏆 **Certificate Generation** | Demonstration of automated certificate generation using demo data. | [View] |
+| 🎥 **System Walkthrough** | Short video demonstrating the system workflow and key functionalities. | [Watch] |
 
 ### Project Scale
 
