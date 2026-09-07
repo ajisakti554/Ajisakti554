@@ -143,25 +143,5 @@ I developed a centralized web-based system that integrates **student data manage
 
 ### System Workflow
 
-```text
-MANUAL ADMINISTRATIVE PROCESS
-              ↓
-      REQUIREMENT ANALYSIS
-              ↓
-       SYSTEM DESIGN
-              ↓
-        DATA INPUT
-              ↓
-      DATA MANAGEMENT
-              ↓
-        AUTOMATION
-         ↙         ↘
-     REPORTS      CERTIFICATES
-    PDF / EXCEL
-              ↓
-          DASHBOARD
-              ↓
-      CONTINUOUSLY USED
-
-```
+<img src= "ChatGPT Image Sep 7, 2026, 06_08_28 PM.png/">
 
