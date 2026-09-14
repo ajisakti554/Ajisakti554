@@ -169,10 +169,8 @@ I developed a centralized web-based system that integrates **student data manage
       <sub><em>key insight</em></sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square"/>
       <br/><br/>
-      <a href="#"><b>View Project →</b></a>
+      <a href="https://github.com/ajisakti554/Independent-Project/tree/main/User%20Retention%20Analysis"><b>View Project →</b></a>
       <br/><br/>
     </td>
     <td align="center" width="33%" valign="top">
@@ -187,13 +185,9 @@ I developed a centralized web-based system that integrates **student data manage
       <br/>
       <sub><em>key insight</em></sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-      &nbsp;
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
       <br/><br/>
-      <a href="#"><b>View Project →</b></a>
+      <a href="https://github.com/ajisakti554/Independent-Project/tree/main/Customer%20Deposit%20Analysis"><b>View Project →</b></a>
       <br/><br/>
     </td>
     <td align="center" width="33%" valign="top">
@@ -209,10 +203,8 @@ I developed a centralized web-based system that integrates **student data manage
       <sub><em>key insight</em></sub>
       <br/><br/>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Looker%20Studio-4479A1?style=flat-square&logo=looker&logoColor=white"/>
       <br/><br/>
-      <a href="#"><b>View Project →</b></a>
+      <a href="https://github.com/ajisakti554/Independent-Project/tree/main/Spotify%20Dashboard%20%26%20Retail%20Dashboard"><b>View Project →</b></a>
       <br/><br/>
     </td>
   </tr>
