@@ -116,10 +116,10 @@ I developed a centralized web-based system that integrates **student data manage
 | Evidence | Description | Access |
 | :--- | :--- | :---: |
 | 🖥️ **System Screenshots** | Selected screenshots demonstrating the main system features using sanitized or demo data. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./tree/main/Website) |
-| 📊 **Dashboard Preview** | Preview of the administrative dashboard and data visualization features. | [View] |
-| 📄 **Report Generation** | Demonstration of automated PDF and Excel report generation. | [View] |
-| 🏆 **Certificate Generation** | Demonstration of automated certificate generation using demo data. | [View] |
-| 🎥 **System Walkthrough** | Short video demonstrating the system workflow and key functionalities. | [Watch] |
+| 📊 **Dashboard Preview** | Preview of the administrative dashboard and data visualization features. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./tree/main/Website) |
+| 📄 **Report Generation** | Demonstration of automated PDF and Excel report generation. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./blob/main/Website/Laporan%20Data%20Santri%20(PDF).png) |
+| 🏆 **Certificate Generation** | Demonstration of automated certificate generation using demo data. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./blob/main/Website/Piagam%20Penghargaan.png) |
+| 📖 **System Guidebook** | Step-by-step user guide covering system navigation, student data input, report generation, and certificate printing — designed for non-technical administrators. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./blob/main/Website/Buku%20Panduan.pdf) |
 
 ### Project Scale
 
@@ -148,6 +148,7 @@ I developed a centralized web-based system that integrates **student data manage
 
 ---
 
+
 # 📊 Independent Projects
 
 > Self-initiated analytical projects applied to retail, banking, and entertainment business scenarios.
@@ -155,57 +156,75 @@ I developed a centralized web-based system that integrates **student data manage
 <br/>
 
 <table>
-  <tr>
-    <td align="center" width="33%" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Domain-Retail-F59E0B?style=flat-square&logoColor=white" alt="Retail"/>
-      <br/><br/>
-      <strong>Retail Customer Retention</strong>
-      <br/><br/>
-      <sub>Cohort analysis to identify churn patterns and the critical drop-off point across customer purchase cycles.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Retention%20Drop-34%25%20at%20Month--2-EA4335?style=for-the-badge" alt="Key Insight"/>
-      <br/>
-      <sub><em>key insight</em></sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/ajisakti554/Independent-Project/tree/main/User%20Retention%20Analysis"><b>View Project →</b></a>
-      <br/><br/>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Domain-Banking-2563EB?style=flat-square&logoColor=white" alt="Banking"/>
-      <br/><br/>
-      <strong>Bank Customer Deposit Analysis</strong>
-      <br/><br/>
-      <sub>Customer segmentation to predict term deposit subscription likelihood using demographic and behavioral variables.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Conversion%20Rate-11.7%25%20Identified-1D9E75?style=for-the-badge" alt="Key Insight"/>
-      <br/>
-      <sub><em>key insight</em></sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
-      <br/><br/>
-      <a href="https://github.com/ajisakti554/Independent-Project/tree/main/Customer%20Deposit%20Analysis"><b>View Project →</b></a>
-      <br/><br/>
-    </td>
-    <td align="center" width="33%" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/Domain-Spotify%20%26%20Retail-7C3AED?style=flat-square&logoColor=white" alt="Spotify & Retail"/>
-      <br/><br/>
-      <strong>Visualization Dashboard</strong>
-      <br/><br/>
-      <sub>Dual interactive BI dashboard — global Spotify streaming trends and retail sales performance monitoring.</sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/2%20Dashboards-5%2B%20KPIs%20Monitored-7C3AED?style=for-the-badge" alt="Key Insight"/>
-      <br/>
-      <sub><em>key insight</em></sub>
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square"/>
-      <br/><br/>
-      <a href="https://github.com/ajisakti554/Independent-Project/tree/main/Spotify%20Dashboard%20%26%20Retail%20Dashboard"><b>View Project →</b></a>
-      <br/><br/>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/Domain-Retail-F59E0B?style=flat-square&logoColor=white" alt="Retail"/>
+<br/><br/>
+<strong>Retail Customer Retention</strong>
+<br/><br/>
+<sub>Cohort retention analysis of 3,889 customers across 12 monthly cohorts. Identified Month 2 as the critical churn window with ~72% average drop-off after first purchase.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/M2%20Retention-~28%25%20Avg-EA4335?style=for-the-badge" alt="Key Insight: ~28% avg retention at Month-2"/>
+<br/>
+<sub><em>key insight</em></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white"/>
+
+<br/><br/>
+<a href="https://github.com/ajisakti554/Independent-Project/tree/main/User%20Retention%20Analysis"><b>View Project →</b></a>
+<br/><br/>
+</td>
+<td align="center" width="25%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/Domain-Banking-2563EB?style=flat-square&logoColor=white" alt="Banking"/>
+<br/><br/>
+<strong>Bank Customer Deposit Analysis</strong>
+<br/><br/>
+<sub>Analyzed 45,211 bank customers to identify term deposit conversion patterns across job type, age group, campaign band, and contact channel.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Conversion%20Rate-11.7%25%20Found-1D9E75?style=for-the-badge" alt="Key Insight: 11.7% conversion rate"/>
+<br/>
+<sub><em>key insight</em></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/ajisakti554/Independent-Project/tree/main/Customer%20Deposit%20Analysis"><b>View Project →</b></a>
+<br/><br/>
+</td>
+<td align="center" width="25%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/Domain-Spotify%20%26%20Retail-7C3AED?style=flat-square&logoColor=white" alt="Spotify & Retail"/>
+<br/><br/>
+<strong>Visualization Dashboard</strong>
+<br/><br/>
+<sub>Dual interactive BI dashboard — global Spotify streaming trends and retail sales performance monitoring.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/2%20Dashboards-5%2B%20KPIs-7C3AED?style=for-the-badge" alt="Key Insight: 2 dashboards, 5+ KPIs"/>
+<br/>
+<sub><em>key insight</em></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square"/>
+<br/><br/>
+<a href="https://github.com/ajisakti554/Independent-Project/tree/main/Spotify%20Dashboard%20%26%20Retail%20Dashboard"><b>View Project →</b></a>
+<br/><br/>
+</td>
+<td align="center" width="25%" valign="top">
+<br/>
+<img src="https://img.shields.io/badge/Domain-SQL%20Query-0891B2?style=flat-square&logoColor=white" alt="SQL Query"/>
+<br/><br/>
+<strong>SQL Consumer & Salary Query</strong>
+<br/><br/>
+<sub>Consumer spend segmentation using SQL filtering with "Tajir" and "Super Tajir" tier labels, combined with year-over-year salary trend analysis.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/2%20Spend%20Tiers-Tajir%20%26%20Super%20Tajir-0891B2?style=for-the-badge" alt="Key Insight: 2 spend tiers"/>
+<br/>
+<sub><em>key insight</em></sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br/><br/>
+<a href="https://github.com/ajisakti554/Independent-Project/tree/main/SQL%20Project"><b>View Project →</b></a>
+<br/><br/>
+</td>
+</tr>
 </table>
