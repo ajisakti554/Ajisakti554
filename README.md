@@ -115,6 +115,7 @@ I developed a centralized web-based system that integrates **student data manage
 
 | Evidence | Description | Access |
 | :--- | :--- | :---: |
+| 🌐 **Live Website** | Access the live administrative system deployed for institutional use. | [Open](https://script.google.com/macros/s/AKfycbwkvcbqEOEGssnoXYKOmT-00K20DUjf0a2YjHwDAEGY/dev) |
 | 🖥️ **System Screenshots** | Selected screenshots demonstrating the main system features using sanitized or demo data. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./tree/main/Website) |
 | 📊 **Dashboard Preview** | Preview of the administrative dashboard and data visualization features. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./tree/main/Website) |
 | 📄 **Report Generation** | Demonstration of automated PDF and Excel report generation. | [View](https://github.com/ajisakti554/Website-Documentation-data-visualization-teaching-assistant./blob/main/Website/Laporan%20Data%20Santri%20(PDF).png) |
